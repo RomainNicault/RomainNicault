@@ -11,7 +11,6 @@
 ### Experience
 
 | | | |
-|---|---|---|
 | **2026** | **Kibo Conseil** · Fractional CMO | AI-native missions helping B2C scale-ups grow, from strategy to execution |
 | **2025** | **Chance** · VP Revenue | Career development platform: brand refresh, acquisition brought in-house |
 | **2020-2023** | **Pretto** · Head of Growth / Head of Ops | Online mortgage broker: growth across Brand, Product and Sales |
